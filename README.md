@@ -6,7 +6,7 @@ A powerful Streamlit application that extracts structured data from web pages an
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:hima12awny@gmail.com)
 
 
-![Structured Data Extractor](https://github.com/hima12-awny/Structured-Data-Extractor/blob/eb981db990d76addd88f26174929f69eb42b4ecb/main_page_screenshot.png)
+[![Structured Data Extractor](https://github.com/hima12-awny/Structured-Data-Extractor/blob/eb981db990d76addd88f26174929f69eb42b4ecb/main_page_screenshot.png)](https://www.linkedin.com/posts/ibrahim-awny_dataextraction-ai-python-activity-7322676787665088512-bJ6Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjO8kUBL4VNSml5QCt_kjF8GJqcHfPOEmk)
 
 ## 🚀 Use Cases
 
