@@ -1,0 +1,455 @@
+{
+  "https://en.wikipedia.org/wiki/Khan_Academy": {
+    "BusinessModel": [
+      "Donations",
+      "Philanthropic organizations",
+      "Subscription (Khanmigo)"
+    ],
+    "CertificationOptions": false,
+    "CompanyName": "Khan Academy",
+    "FoundedYear": 2006,
+    "Founders": [
+      "Sal Khan"
+    ],
+    "Headquarters": [
+      "Mountain View, California"
+    ],
+    "InstitutionalPartners": [
+      "College Board",
+      "Pixar",
+      "Code.org",
+      "Museum of Modern Art",
+      "Microsoft"
+    ],
+    "InternationalAvailability": [
+      "Worldwide",
+      "Available in multiple languages including English, Bangla, Bulgarian, Chinese, French, German, Georgian, Norwegian, Polish, Portuguese, Spanish, Serbian, Turkish and Uzbek"
+    ],
+    "KeyDifferentiators": [
+      "Non-profit organization",
+      "Free educational resources",
+      "Personalized learning",
+      "Supplementary practice exercises",
+      "Khanmigo AI chatbot"
+    ],
+    "MobileAppAvailable": true,
+    "PrimaryTargetAudience": [
+      "Students",
+      "Teachers"
+    ],
+    "SubjectAreas": [
+      "Mathematics",
+      "Sciences",
+      "Literature",
+      "History",
+      "Computer Science",
+      "Test preparation (SAT, AP, LSAT, Praxis Core, MCAT)"
+    ]
+  },
+  "Coursera": {
+    "CompanyName": "Coursera",
+    "FoundedYear": 2012,
+    "Headquarters": [
+      "Mountain View, California, U.S."
+    ],
+    "Founders": [
+      "Andrew Ng",
+      "Daphne Koller"
+    ],
+    "BusinessModel": [
+      "Subscription (Coursera Plus)",
+      "Individual course purchases",
+      "Certificate programs",
+      "Degree programs",
+      "Coursera for Business (enterprise solutions)",
+      "Revenue sharing with partners"
+    ],
+    "PrimaryTargetAudience": [
+      "Individual learners (upskilling, reskilling, lifelong learning)",
+      "Professionals",
+      "Students",
+      "Businesses",
+      "Universities",
+      "Government organizations"
+    ],
+    "SubjectAreas": [
+      "Business",
+      "Computer Science",
+      "Data Science",
+      "Information Technology",
+      "Health",
+      "Arts and Humanities",
+      "Personal Development",
+      "Engineering",
+      "Social Sciences",
+      "and many more"
+    ],
+    "CertificationOptions": true,
+    "InstitutionalPartners": [
+      "Universities",
+      "Colleges",
+      "Corporations",
+      "Governments",
+      "Over 350 leading university and industry partners"
+    ],
+    "MobileAppAvailable": true,
+    "InternationalAvailability": [
+      "Worldwide",
+      "Available in multilingual (40) languages",
+      "Operates in over 190 countries",
+      "Note: Access may be restricted in certain sanctioned regions due to U.S. export control regulations, including Iran, Sudan, Crimea, Cuba, Syria, and North Korea. Restrictions may apply to advanced courses in science, technology, engineering, and mathematics in some regions."
+    ],
+    "KeyDifferentiators": [
+      "Partnerships with top universities and companies",
+      "Wide range of courses, Specializations, and degrees",
+      "Flexible learning options",
+      "recognized certifications",
+      "B2B and B2C business model",
+      "Mobile app availability",
+      "Coursera Plus subscription option",
+      "Guided Projects for hands-on learning",
+      "Offers financial aid"
+    ]
+  },
+  "Udemy": {
+    "CompanyName": "Udemy, Inc.",
+    "FoundedYear": 2010,
+    "Headquarters": [
+      "San Francisco, California, U.S.",
+      "Ankara, Turkey",
+      "Dublin, Ireland",
+      "Denver, Colorado",
+      "New Delhi, India",
+      "Sao Paulo, Brazil"
+    ],
+    "Founders": [
+      "Eren Bali",
+      "Gagan Biyani",
+      "Oktay Caglar"
+    ],
+    "BusinessModel": [
+      "Course purchases",
+      "Subscription (Udemy Business, Personal Plan)",
+      "Revenue sharing with instructors"
+    ],
+    "PrimaryTargetAudience": [
+      "Professionals seeking skill enhancement",
+      "Students wanting to learn new subjects",
+      "Instructors wanting to share their knowledge",
+      "Businesses and organizations looking to train their employees",
+      "Young adults learners looking to learn a new hobby or re-skill themselves for career change"
+    ],
+    "SubjectAreas": [
+      "Development",
+      "Business",
+      "Finance & Accounting",
+      "IT & Software",
+      "Office Productivity",
+      "Personal Development",
+      "Design",
+      "Marketing",
+      "Lifestyle",
+      "Photography & Video",
+      "Health & Fitness",
+      "Music",
+      "Teaching & Academics",
+      "Data Science",
+      "Cloud Computing",
+      "Leadership & Management",
+      "Project Management & Operations",
+      "Sales",
+      "Workplace & Human Resources"
+    ],
+    "CertificationOptions": true,
+    "InstitutionalPartners": [
+      "Benesse Holdings",
+      "Amazon Web Services",
+      "Google Cloud"
+    ],
+    "MobileAppAvailable": true,
+    "InternationalAvailability": [
+      "English",
+      "French",
+      "Spanish",
+      "Turkish",
+      "Portuguese",
+      "German",
+      "Japanese",
+      "Polish",
+      "Korean",
+      "Russian",
+      "Italian",
+      "Chinese",
+      "Brazilian Portuguese",
+      "Indonesian",
+      "Mandarin",
+      "Arabic",
+      "Hindi",
+      "Vietnamese"
+    ],
+    "KeyDifferentiators": [
+      "Vast course catalog",
+      "Diverse instructors",
+      "Affordable pricing",
+      "Flexible, on-demand learning",
+      "Global reach",
+      "Localized content",
+      "User-generated content",
+      "Mobile app for learning on the go"
+    ]
+  },
+  "https://en.wikipedia.org/wiki/EdX": {
+    "BusinessModel": [
+      "For-profit",
+      "Online education platform",
+      "Offers certificates of successful completion",
+      "Verified courses",
+      "XSeries Certificates"
+    ],
+    "CertificationOptions": true,
+    "CompanyName": "edX",
+    "FoundedYear": 2012,
+    "Founders": [
+      "Massachusetts Institute of Technology",
+      "Harvard University",
+      "Piotr Mitros",
+      "Rafael Reif",
+      "Anant Agarwal"
+    ],
+    "Headquarters": [
+      "US"
+    ],
+    "InstitutionalPartners": [
+      "Stanford University",
+      "Microsoft",
+      "Arizona State University",
+      "General Electric",
+      "Tech Mahindra",
+      "Georgia Institute of Technology",
+      "University of California San Diego",
+      "San Jose State University",
+      "Bunker Hill Community College",
+      "Massachusetts Bay Community College",
+      "International Monetary Fund",
+      "Tenaris corporation",
+      "Queen Rania Foundation for Education and Development"
+    ],
+    "InternationalAvailability": [
+      "Multilingual (14 languages)",
+      "162 countries (in first edX course)",
+      "United States",
+      "China",
+      "Mongolia",
+      "Japan",
+      "France",
+      "Arab world"
+    ],
+    "KeyDifferentiators": [
+      "Open edX platform (open source)",
+      "Research into learning and distance education",
+      "Blended classrooms"
+    ],
+    "MobileAppAvailable": false,
+    "PrimaryTargetAudience": [
+      "Students",
+      "Professionals"
+    ],
+    "SubjectAreas": [
+      "Circuits and electronics",
+      "Computer Science",
+      "Programming",
+      "Economics",
+      "Finance"
+    ]
+  },
+  "LinkedIn Learning": {
+    "CompanyName": "LinkedIn Learning",
+    "FoundedYear": 1995,
+    "Headquarters": [
+      "Sunnyvale, California, US",
+      "Carpinteria"
+    ],
+    "Founders": [
+      "Lynda Weinman",
+      "Bruce Heavin"
+    ],
+    "BusinessModel": [
+      "Subscription-based",
+      "Online education",
+      "Online publishing"
+    ],
+    "PrimaryTargetAudience": [
+      "Professionals",
+      "Students",
+      "Faculty",
+      "Staff",
+      "Businesses"
+    ],
+    "SubjectAreas": [
+      "Business",
+      "Creative",
+      "Technology",
+      "Certifications",
+      "Software",
+      "Leadership",
+      "Marketing"
+    ],
+    "CertificationOptions": true,
+    "InstitutionalPartners": [
+      "Universities",
+      "Companies"
+    ],
+    "MobileAppAvailable": true,
+    "InternationalAvailability": [
+      "Worldwide",
+      "Courses available in English, German, Spanish, French, Japanese, Mandarin Chinese, and Brazilian Portuguese, and more"
+    ],
+    "KeyDifferentiators": [
+      "Vast library of courses taught by industry experts",
+      "Personalized learning recommendations",
+      "Integration with LinkedIn profiles",
+      "Mobile app for on-the-go learning",
+      "Skills data from LinkedIn to inform course development",
+      "AI-powered coaching"
+    ]
+  },
+  "Skillshare": {
+    "CompanyName": "Skillshare",
+    "FoundedYear": 2010,
+    "Headquarters": [
+      "New York City, New York, U.S.",
+      "215 Park Avenue South, 11th Floor, New York, NY 10003, United States"
+    ],
+    "Founders": [
+      "Michael Karnjanaprakorn",
+      "Malcolm Ong"
+    ],
+    "BusinessModel": [
+      "Subscription-based",
+      "Referral program",
+      "Enterprise program",
+      "Affiliate marketing",
+      "Workshops"
+    ],
+    "PrimaryTargetAudience": [
+      "Learners interested in expanding their personal and professional growth",
+      "Creative individuals",
+      "Professionals seeking continuous skill enhancement",
+      "Hobbyists",
+      "Companies for employee development"
+    ],
+    "SubjectAreas": [
+      "Design",
+      "Business",
+      "Technology",
+      "Creative Arts",
+      "Illustration",
+      "Photography",
+      "Film & Video",
+      "Writing",
+      "UI/UX Design",
+      "Marketing",
+      "Productivity",
+      "Animation",
+      "Fine Art",
+      "Crafts",
+      "DIY",
+      "AI & Innovation",
+      "Music & Audio",
+      "Personal Development",
+      "Home & Lifestyle"
+    ],
+    "CertificationOptions": false,
+    "InstitutionalPartners": [
+      "Staples",
+      "Mailchimp",
+      "Evernote",
+      "Disney",
+      "Levi's"
+    ],
+    "MobileAppAvailable": true,
+    "InternationalAvailability": [
+      "Worldwide",
+      "Website and app are available in English, Spanish, Portuguese, French, and German"
+    ],
+    "KeyDifferentiators": [
+      "Content-driven platform",
+      "Project-based learning approach",
+      "Classes taught by industry experts",
+      "Focus on creative skills",
+      "Affordable subscription model",
+      "Community-driven learning",
+      "Accessibility",
+      "Wide range of courses"
+    ]
+  },
+  "Nagwa - e-learning platform": {
+    "CompanyName": "Nagwa - e-learning platform",
+    "FoundedYear": 2015,
+    "Headquarters": [
+      "Windsor, United Kingdom",
+      "Cairo, Egypt"
+    ],
+    "Founders": [],
+    "BusinessModel": [
+      "Subscription",
+      "Course purchases",
+      "Freemium",
+      "Annual packages for schools and individual tutors"
+    ],
+    "PrimaryTargetAudience": [
+      "Students",
+      "Teachers",
+      "Professors",
+      "Schools",
+      "Universities",
+      "Parents",
+      "Educational institutions",
+      "Professionals",
+      "Freelancers",
+      "Non Profits",
+      "Public Administrations",
+      "Small/Medium Businesses"
+    ],
+    "SubjectAreas": [
+      "Math",
+      "Chemistry",
+      "Biology",
+      "Physics",
+      "Science",
+      "English",
+      "Arabic",
+      "French",
+      "Preparatory subjects",
+      "Primary subjects",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "History",
+      "Geography",
+      "Statistics"
+    ],
+    "CertificationOptions": true,
+    "InstitutionalPartners": [],
+    "MobileAppAvailable": true,
+    "InternationalAvailability": [
+      "Worldwide",
+      "India",
+      "UK",
+      "Egypt",
+      "Cairo",
+      "20 different countries"
+    ],
+    "KeyDifferentiators": [
+      "High-quality teaching",
+      "Top-quality learning materials created by international subject matter experts",
+      "Engaging and interactive digital learning resources",
+      "Customized learning platforms",
+      "Interactive content",
+      "Assessment tools designed to meet specific academic requirements",
+      "Interactive Sessions",
+      "Chat & Messaging",
+      "Realistic Exam Questions"
+    ]
+  }
+}

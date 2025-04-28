@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1c6bff"              # Light blue accent
+backgroundColor = "#121212"           # Dark base background
+secondaryBackgroundColor = "#1e1e1e"  # Darker card background
+textColor = "#ffffff"                 # White text
+font = "monospace"    # For techy, console-style vibes

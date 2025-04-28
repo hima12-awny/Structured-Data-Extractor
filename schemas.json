@@ -1,0 +1,461 @@
+{
+  "Grade": {
+    "title": "Grade",
+    "properties": [
+      {
+        "description": "generate random subject name",
+        "title": "subject_name",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": null,
+        "title": "grade",
+        "type": "enum",
+        "items": {
+          "type": null
+        },
+        "enum_values": [
+          "A",
+          "A+",
+          "A-",
+          "B",
+          "B+",
+          "B-",
+          "C",
+          "C+",
+          "C-",
+          "D+",
+          "D-",
+          "D"
+        ],
+        "required": true,
+        "enum_type": "string"
+      }
+    ],
+    "type": "object",
+    "required": [],
+    "set_response_formate": false
+  },
+  "Student": {
+    "title": "Student",
+    "properties": [
+      {
+        "description": null,
+        "title": "name",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": null,
+        "title": "age",
+        "type": "integer",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": null,
+        "title": "grades",
+        "type": "array",
+        "items": {
+          "type": "Grade"
+        },
+        "enum_values": [],
+        "required": true
+      }
+    ],
+    "type": "object",
+    "required": [],
+    "set_response_formate": false
+  },
+  "Class": {
+    "title": "Class",
+    "properties": [
+      {
+        "description": "a list of all students in the class",
+        "title": "students",
+        "type": "array",
+        "items": {
+          "type": "Student"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": null,
+        "title": "class_name",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      }
+    ],
+    "type": "object",
+    "required": [],
+    "set_response_formate": true
+  },
+  "Persone": {
+    "title": "Persone",
+    "properties": [
+      {
+        "description": null,
+        "title": "name",
+        "type": "string",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true,
+        "enum_type": "string"
+      },
+      {
+        "description": null,
+        "title": "passed",
+        "type": "boolean",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      }
+    ],
+    "type": "object",
+    "required": [],
+    "set_response_formate": true
+  },
+  "Scintest": {
+    "title": "Scintest",
+    "properties": [
+      {
+        "description": null,
+        "title": "full_name",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "extract the birthdate in format YYYY-MM-DD",
+        "title": "birthdate",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "extract the birthdate in format YYYY-MM-DD\n",
+        "title": "dithdate",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Identify the physicist's groundbreaking theories, laws, principles, or experimental findings that advanced physics. Include the year of discovery and specific field (quantum mechanics, relativity, etc.).",
+        "title": "major_contributions",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "List their most significant published works with exact titles, publication dates, and journals. Explain how each publication changed scientific understanding and influenced future research.",
+        "title": "notable_publications",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Detail their educational journey including institutions attended, degrees earned with dates, notable professors, and areas of study. Include teaching positions held throughout their career.",
+        "title": "academic_background",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Compile all major scientific awards (Nobel Prize, etc.), honorary degrees, fellowships, and memberships in prestigious academies. Include the year awarded and specific achievement recognized.",
+        "title": "awards_and_honors",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Extract information about family background, significant life events, health challenges, political circumstances, or personal philosophies that shaped their scientific approach and career.\n",
+        "title": "personal_life_influences",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Identify important scientific relationships, naming specific individuals who influenced their thinking or with whom they conducted significant research. Include student-mentor relationships.",
+        "title": "collaborators_and_mentors",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Place their work within the relevant historical period, noting world events, technological limitations, competing theories, and scientific paradigms of their era that affected their research.",
+        "title": "historical_context",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "\"Explain how their work continues to impact contemporary physics research, education, and applications. Identify concepts, equations, or technologies named after them.",
+        "title": "legacy_and_influence",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Find unique stories, habits, quotes, or unusual aspects of their life or work that provide insight into their personality or methods. Include verified accounts rather than myths or rumors.",
+        "title": "interesting_anecdotes",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      }
+    ],
+    "type": "object",
+    "required": [],
+    "set_response_formate": true
+  },
+  "scientists": {
+    "title": "scientists",
+    "properties": [
+      {
+        "description": null,
+        "title": "all_",
+        "type": "array",
+        "items": {
+          "type": "Scintest"
+        },
+        "enum_values": [],
+        "required": true
+      }
+    ],
+    "type": "object",
+    "required": [],
+    "set_response_formate": true
+  },
+  "Recipe": {
+    "title": "Recipe",
+    "properties": [
+      {
+        "description": null,
+        "title": "name",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "tell me the condition or when the suitable events or conditions to make this recipe",
+        "title": "when_to_cock",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "extract all Ingredients of the recipe",
+        "title": "Ingredients",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "explain summarized steps to make the recipe",
+        "title": "steps",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      }
+    ],
+    "type": "object",
+    "required": [],
+    "set_response_formate": true
+  },
+  "Company": {
+    "title": "Company",
+    "properties": [
+      {
+        "description": "The official name of the platform\n",
+        "title": "CompanyName",
+        "type": "string",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": " The year the company was established",
+        "title": "FoundedYear",
+        "type": "integer",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "All important locations of the main office",
+        "title": "Headquarters",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Names of the company founders",
+        "title": "Founders",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Subscription/course purchases/freemium/etc.",
+        "title": "BusinessModel",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Main demographic (professionals, students, etc.)",
+        "title": "PrimaryTargetAudience",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Main categories of courses offered",
+        "title": "SubjectAreas",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Whether they offer recognized certifications put is None if not provided",
+        "title": "CertificationOptions",
+        "type": "boolean",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Universities or companies they partner",
+        "title": "InstitutionalPartners",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Whether they have mobile apps",
+        "title": "MobileAppAvailable",
+        "type": "boolean",
+        "items": {
+          "type": null
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Regions where available - be summarized",
+        "title": "InternationalAvailability",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      },
+      {
+        "description": "Unique aspects of the platform",
+        "title": "KeyDifferentiators",
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "enum_values": [],
+        "required": true
+      }
+    ],
+    "type": "object",
+    "required": [],
+    "set_response_formate": true
+  }
+}

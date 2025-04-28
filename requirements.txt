@@ -1,0 +1,6 @@
+docling==2.31.0
+protobuf==6.30.2
+python-dotenv==1.1.0
+streamlit==1.43.1
+wikipedia==1.4.0
+google-genai==1.12.1
